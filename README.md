@@ -1,4 +1,4 @@
-# Hello World, I'm Filippo Fresilli. 
+# 👋🏻 Hello World, I'm Filippo Fresilli. 
 
 # Get in touch:
 
