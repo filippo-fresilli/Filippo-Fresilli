@@ -2,5 +2,7 @@
 
 # Get in touch
 
-* Personal site: https://filippo-fresilli.github.io/
+* Behance: https://www.behance.net/filippo-fresilli
 * Linkedin: https://www.linkedin.com/in/filippofresilli/
+* Personal site: https://filippo-fresilli.github.io/
+
