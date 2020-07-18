@@ -10,6 +10,13 @@ I like to develop products and services that have a good impact and helps people
 * French   (B2) 
 * English  (B2)
 
+## 🏀 The sports I like most: 
+
+* Basketball
+* Football 
+* Ping-Pong
+* Beach-Volley
+
 ## 🔗 Here the links to my online presence:
 
 * Behance: https://www.behance.net/filippofresilli
