@@ -1,8 +1,14 @@
 # 👋🏻 Hello Internet, I'm Filippo Fresilli. 
 
-I am UX-UI Designer with a past as Product Designer and a passion for coding. 
+I am UX-UI Designer with a past as Product Designer and a passion for coding as Frontend developer. 
 
 I like to develop products and services that have a good impact and helps people's life.
+
+## 💼 How can I help you? 
+
+* Design and prototype your app, website or service. 
+* Design your MVP interface.
+* Create a design system. 
 
 ## 🌍 I speak:
 
