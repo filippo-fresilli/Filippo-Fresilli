@@ -1,4 +1,4 @@
-# 👋🏻 Hello Internet, I'm Filippo Fresilli. 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello Internet, I'm Filippo Fresilli. 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Filippo-Fresilli)
 
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/filippofresilli/)
