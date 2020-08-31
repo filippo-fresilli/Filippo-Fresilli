@@ -1,12 +1,13 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello Internet, I'm Filippo Fresilli. 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Filippo-Fresilli)
 
-[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/filippofresilli/)
-[![](https://img.shields.io/badge/-Behance-informational?style=for-the-badge&logo=behance&logoColor=white&color=000000)](https://www.behance.net/filippofresilli)
-
 I am UX-UI Designer with a past as Product Designer and a passion for coding as Frontend developer. 
 
 I like to develop products and services that have a good impact and helps people's life.
+
+[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/filippofresilli/)
+[![](https://img.shields.io/badge/-Behance-informational?style=for-the-badge&logo=behance&logoColor=white&color=000000)](https://www.behance.net/filippofresilli)
+
 
 ## 💼 How can I help you? 
 
