@@ -3,7 +3,7 @@
 
 I am UX-UI Designer with a past as Product Designer and a passion for coding as Frontend developer. 
 
-I like to develop products and services that have a good impact and helps people's life.
+I like to design and develop products and services that have a good impact and helps people's life.
 
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/filippofresilli/)
 [![](https://img.shields.io/badge/-Behance-informational?style=for-the-badge&logo=behance&logoColor=white&color=000000)](https://www.behance.net/filippofresilli)
@@ -18,8 +18,6 @@ I like to develop products and services that have a good impact and helps people
 ## ⛓ My referrals: 
 
 * [Brave Browser](https://brave.com/fil794)
-* [Housers: peer to peer lending for real estate](https://www.housers.com/it/form-registrazione?pt=PFH--REF--69060)
-* [Coinbase: Invest 100€ in cryptocurrencies, we both gain 9€ of Bitcoin](https://www.coinbase.com/join/5890622b39e5ce7dceca5818)
 * [Duolingo: learn leanguages](https://invite.duolingo.com/BDHTZTB5CWWKTJ2CWCODRLN75M)
 
 ## 🌍 I speak:
