@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Product+Designer;UX%2FUI+Designer;Vibe+Coder)](https://git.io/typing-svg)
 
-Welcome to my digital playground. Apps, websites and games — designed and coded by me.
+Welcome to my digital playground. Apps, websites and games designed and coded by me and AI.
 
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/filippofresilli/)
 [![](https://img.shields.io/badge/-Behance-informational?style=for-the-badge&logo=behance&logoColor=white&color=000000)](https://www.behance.net/filippofresilli)
